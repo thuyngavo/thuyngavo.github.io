@@ -50,6 +50,7 @@ body{
   .contact{
     text-align: center;
     font-family: 'Permanent Marker', cursive;
+    vertical-align: center;
   }
   
   .btn{
@@ -95,3 +96,7 @@ body{
   a::after { 
     color: gray;
   }
+
+  ::-webkit-scrollbar { 
+    display: none; 
+}
