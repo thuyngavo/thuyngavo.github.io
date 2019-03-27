@@ -54,5 +54,12 @@ body{
   }
   
   i{
-    text-align: center;
+    position: relative;
+    color: gray;
+    align-content: center;
   }
+
+  a{
+    color: gray;
+  }
+
