@@ -27,6 +27,8 @@ body{
   
   #content{
     margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
   }
   .card-title{
     text-align: center;
@@ -38,6 +40,16 @@ body{
     height: 40rem;
     background: url(https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/980272_10151755813096583_524249020_o.jpg?_nc_cat=106&_nc_ht=scontent-atl3-1.xx&oh=09f1e452d1faf092a1d5611070ed48c0&oe=5CF5EF88) center no-repeat;
     background-size: cover;
+  }
+
+  h5{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+  }
+
+  .contact{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
   }
   
   .btn{
