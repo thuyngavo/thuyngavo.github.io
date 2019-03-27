@@ -25,6 +25,9 @@ body{
   
   }
   
+  #content{
+    margin-left: 10px;
+  }
   .card-title{
     text-align: center;
     font-family: 'Permanent Marker', cursive;
@@ -59,7 +62,24 @@ body{
     align-content: center;
   }
 
+  h1{
+    margin: 0px 0px 0px 0px;
+  }
+
+  /*.fa-github-square{
+    position: absolute;
+
+    text-align: center;
+  }*/
+
   a{
     color: gray;
   }
 
+  a:hover { 
+    color: gray;
+  }
+
+  a::after { 
+    color: gray;
+  }
