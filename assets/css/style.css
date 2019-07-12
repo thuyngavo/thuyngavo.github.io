@@ -38,7 +38,7 @@ body{
   .card-img-bottom {
     color: #fff;
     height: 40rem;
-    background: url(https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/980272_10151755813096583_524249020_o.jpg?_nc_cat=106&_nc_ht=scontent-atl3-1.xx&oh=09f1e452d1faf092a1d5611070ed48c0&oe=5CF5EF88) center no-repeat;
+    background: url(../images/photo.jpg) center no-repeat;
     background-size: cover;
   }
 
